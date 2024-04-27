@@ -53,8 +53,7 @@ cv2.waitKey(0)
 ### Output:
 
 #### Display the input Image
-![image](https://github.com/JoyceBeulah/OPENING--AND-CLOSING/assets/118343698/339eb79a-faa6-4905-956f-d7c71958c9f5)
-
+![image](https://github.com/Leann4468/OPENING--AND-CLOSING/assets/121165979/9b01c0f4-42e7-4327-bd9c-fa41e6fbb19f)
 
 #### Display the result of Opening
 ![image](https://github.com/Leann4468/OPENING--AND-CLOSING/assets/121165979/5f208fb7-7cd7-40d0-8999-13b13ab99f97)
